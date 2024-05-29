@@ -1,6 +1,4 @@
 | Name | 
 | ---  | 
 | Mitch Phillipson | 
-| Name | 
-| ---  | 
-| Mitch Phillipson | 
+| Andrew Chen | 
